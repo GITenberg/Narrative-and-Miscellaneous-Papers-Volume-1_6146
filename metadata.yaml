@@ -1,5 +1,5 @@
 _repo: Narrative-and-Miscellaneous-Papers-Volume-1_6146
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,6 +31,7 @@ subjects:
 - !lcsh 'English essays'
 - !lcc 'PR'
 - !lcsh 'English fiction'
+- GITenberg
 tableOfContents: The household wreck -- The Spanish nun -- Flight of a Tartar tribe.
 title: Narrative and Miscellaneous Papers — Volume 1
 url: http://www.gutenberg.org/ebooks/6146
